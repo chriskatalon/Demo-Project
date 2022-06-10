@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Studio</name>
+   <tag></tag>
+   <elementGuidId>2cd868ca-3ef9-4f9d-b3ce-27e5e84ab8f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_cos_wrapper_module_67782580076']/div[7]/div/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.prod-ks.product > p.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>29d7e945-34bf-40e1-8ba3-eb1f0c564aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>201184cd-518a-42dd-a32f-dd66817d5696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Studio</value>
+      <webElementGuid>5f19e28d-4859-4935-ac0e-3a1b5ead8e7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_module_67782580076&quot;)/div[@class=&quot;section-product-guide play_animation&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;div-products&quot;]/div[@class=&quot;prod-ks product&quot;]/p[@class=&quot;title&quot;]</value>
+      <webElementGuid>a92568e1-2ad6-49c9-8740-347bcb1bdee6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_module_67782580076']/div[7]/div/div/div[2]/p</value>
+      <webElementGuid>9386a5e3-088d-4396-8d76-9b444648b435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Studio'])[1]/following::p[2]</value>
+      <webElementGuid>8be032ac-df67-4522-a919-70dccff15b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestOps'])[1]/following::p[2]</value>
+      <webElementGuid>8507916f-8f0c-4c57-a49c-55e6975a0086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trial with TestOps'])[1]/preceding::p[1]</value>
+      <webElementGuid>2a92a176-d71c-4dbf-90fa-9a2af702617c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrate TestCloud with Studio'])[1]/preceding::p[1]</value>
+      <webElementGuid>f8720463-4af7-40c6-8132-98d510781ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/p</value>
+      <webElementGuid>5f21671b-e0dd-4545-80b8-80e5ebbd12c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Studio' or . = 'Studio')]</value>
+      <webElementGuid>dbba2eae-7241-4abc-9514-f65d2c5da7cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
