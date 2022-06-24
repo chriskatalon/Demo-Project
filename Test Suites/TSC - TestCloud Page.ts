@@ -10,7 +10,7 @@
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Desktop</groupName>
-            <profileName>default</profileName>
+            <profileName>QA from VN</profileName>
             <requireConfigurationData>true</requireConfigurationData>
             <runConfigurationData>
                <entry>
@@ -22,7 +22,7 @@
   &quot;browserName&quot;: &quot;firefox&quot;,
   &quot;browserDisplayName&quot;: &quot;Firefox&quot;,
   &quot;browserVersion&quot;: &quot;98&quot;,
-  &quot;usingTunnel&quot;: false,
+  &quot;usingTunnel&quot;: true,
   &quot;timeout&quot;: 15
 }</value>
                </entry>

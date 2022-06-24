@@ -15,7 +15,7 @@
       <guid>936609c9-8cd7-40a3-9d3f-dae1560f3a4f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC2 - Go to google</testCaseId>
+      <testCaseId>Test Cases/TC2 - Go to google 1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
