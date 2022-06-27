@@ -3,9 +3,9 @@
 bin
 
 Reports
-
+/settings/internal/
 Libs
-/.settings/
+/settings/
 output
 
 !output/.gitkeep
