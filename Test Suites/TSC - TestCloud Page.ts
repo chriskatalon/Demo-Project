@@ -10,31 +10,6 @@
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Desktop</groupName>
-            <profileName>QA from VN</profileName>
-            <requireConfigurationData>true</requireConfigurationData>
-            <runConfigurationData>
-               <entry>
-                  <key>testCloudEnvironment</key>
-                  <value>{
-  &quot;id&quot;: 75,
-  &quot;os&quot;: &quot;linux&quot;,
-  &quot;osDisplayName&quot;: &quot;Linux&quot;,
-  &quot;browserName&quot;: &quot;firefox&quot;,
-  &quot;browserDisplayName&quot;: &quot;Firefox&quot;,
-  &quot;browserVersion&quot;: &quot;98&quot;,
-  &quot;usingTunnel&quot;: true,
-  &quot;timeout&quot;: 15
-}</value>
-               </entry>
-            </runConfigurationData>
-            <runConfigurationId>TestCloud</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TS1 - Go to katalon.com</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
             <requireConfigurationData>true</requireConfigurationData>
             <runConfigurationData>
