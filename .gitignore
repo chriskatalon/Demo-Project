@@ -5,7 +5,7 @@ bin
 Reports
 
 Libs
-
+/.settings/
 output
 
 !output/.gitkeep
