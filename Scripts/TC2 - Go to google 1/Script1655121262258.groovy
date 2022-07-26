@@ -21,7 +21,3 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
 
-WebUI.setText(findTestObject('Object Repository/Page_Google/input__q'), 'testcloud')
-
-WebUI.closeBrowser()
-
