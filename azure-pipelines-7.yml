@@ -15,7 +15,7 @@ steps:
 - task: katalonTask@1
   inputs:
     version: '8.4.0'
-    executeArgs: '-retry=0 -testSuitePath="Test Suites/TS1 - Go to katalon.com" -browserType="Firefox (headless)" -executionProfile="Chris" -apiKey="21f42f7d-3d2a-4d00-9a48-c399275cd2ba" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -kobiton.authentication.serverUrl="https://api.kobiton.com/wd/hub" -kobiton.authentication.username="khang.dang" -kobiton.authentication.apiKey="c8b571e7-1cec-4b7e-aab1-77db020e371b" -webui.autoUpdateDrivers=true'
+    executeArgs: '-retry=0 -testSuitePath="Test Suites/TS1 - Go to katalon.com" -browserType="Firefox (headless)" -executionProfile="Chris" -apiKey="21f42f7d-3d2a-4d00-9a48-c399275cd2ba" -sendMail="trinhquan1411@gmail.com" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -kobiton.authentication.serverUrl="https://api.kobiton.com/wd/hub" -kobiton.authentication.username="khang.dang" -kobiton.authentication.apiKey="c8b571e7-1cec-4b7e-aab1-77db020e371b" -webui.autoUpdateDrivers=true'
 - script: |
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
