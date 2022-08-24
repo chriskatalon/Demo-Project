@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "FAA7B4940283106B8392729BD140D169",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.globalvariable.GlobalVariableInProfile",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

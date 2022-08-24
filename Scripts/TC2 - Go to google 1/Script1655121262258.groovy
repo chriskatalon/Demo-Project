@@ -21,3 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
 
+WebUI.delay(1)
+

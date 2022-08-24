@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "35574F7DE44B506DB781984D2971CD95",
+  "keywordClasses": [
+    {
+      "name": "glbl.sampledomainconstruct.SerializableToGlobalVariableEntity",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -13,6 +13,36 @@
       </properties>
       <type>TESTCASE</type>
    </integratedEntity>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>versionId</key>
+            <value>149200970</value>
+         </entry>
+         <entry>
+            <key>name</key>
+            <value>TC1 - Browse to katalon.com</value>
+         </entry>
+         <entry>
+            <key>pid</key>
+            <value>TC-36</value>
+         </entry>
+         <entry>
+            <key>id</key>
+            <value>116050473</value>
+         </entry>
+         <entry>
+            <key>version</key>
+            <value>0.1</value>
+         </entry>
+         <entry>
+            <key>parentId</key>
+            <value>57087993</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
    <comment></comment>
    <testCaseGuid>60ecf663-9861-425f-a52e-aa8c577809f7</testCaseGuid>
 </TestCaseEntity>

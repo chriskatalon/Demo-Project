@@ -3,6 +3,48 @@
    <description></description>
    <name>Introduction Of TestCloud with Katalon Studio</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>0</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'qConnect - Sample Project','testCaseFolderMappeds':[],'id':6178}</value>
+         </entry>
+         <entry>
+            <key>1</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'Automation Project','testCaseFolderMappeds':[],'id':108354}</value>
+         </entry>
+         <entry>
+            <key>2</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'Khang_Qtest_Demo','testCaseFolderMappeds':[],'id':113194}</value>
+         </entry>
+         <entry>
+            <key>3</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'linhdoo','testCaseFolderMappeds':[],'id':103358}</value>
+         </entry>
+         <entry>
+            <key>4</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'loan_demo','testCaseFolderMappeds':[],'id':114359}</value>
+         </entry>
+         <entry>
+            <key>5</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'qa - qTest checking integration','testCaseFolderMappeds':[],'id':104838}</value>
+         </entry>
+         <entry>
+            <key>6</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'STUDIO-1006','testCaseFolderMappeds':[],'id':108535}</value>
+         </entry>
+         <entry>
+            <key>7</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'thuong_All in One','testCaseFolderMappeds':[],'id':108730}</value>
+         </entry>
+         <entry>
+            <key>8</key>
+            <value>{'testSuiteFolderMappeds':['Test Suites'],'name':'Vi_QTest','testCaseFolderMappeds':['Test Cases'],'id':114482}</value>
+         </entry>
+      </properties>
+      <type>PROJECT</type>
+   </integratedEntity>
    <UUID>d89f08ca-1b83-4cff-ae6e-d82f387cb06a</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>

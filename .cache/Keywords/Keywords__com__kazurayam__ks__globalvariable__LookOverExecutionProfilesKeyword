@@ -1,0 +1,91 @@
+{
+  "keywordFileContentHash": "3E3FB3596C118B54DA1FF40A0C8C9F69",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.globalvariable.LookOverExecutionProfilesKeyword",
+      "keywordMethods": [
+        {
+          "name": "listAllProfiles",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "listProfiles",
+          "parameters": [
+            {
+              "name": "profileNamePattern",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "listAllGlobalVariables",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "listGlobalVariables",
+          "parameters": [
+            {
+              "name": "globalVariableNamePattern",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "listGlobalVariablesInProfiles",
+          "parameters": [
+            {
+              "name": "globalVariableNamePattern",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "profileNamePattern",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

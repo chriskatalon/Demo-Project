@@ -1,0 +1,50 @@
+{
+  "keywordFileContentHash": "E01A19086B57CCD75E8CADE0EE5386A7",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.globalvariable.LookAtGlobalVariablesKeyword",
+      "keywordMethods": [
+        {
+          "name": "additionalGVEntitiesAsString",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "allGVEntitiesAsString",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "staticGVEntitiesAsString",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "toJson",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "toJson",
+          "parameters": [
+            {
+              "name": "prettyPrint",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "boolean",
+                "unresolvedClassName": "boolean",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

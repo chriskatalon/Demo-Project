@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C8AB1560BC4457D999E9745B5A561B83",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.globalvariable.LookAtGlobalVariablesKeywordTest",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
