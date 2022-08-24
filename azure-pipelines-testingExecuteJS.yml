@@ -9,11 +9,13 @@ trigger:
 pool:
   vmImage: ubuntu-18.04
 
+steps:
+- script: echo Hello, world!
+  displayName: 'Run a one-line script'
 - task: katalonTask@1
   inputs:
     version: '8.4.1'
     executeArgs: '-retry=0 -testSuitePath="Test Suites/TS3 - Execute Js" -browserType="IE" -executionProfile="default" -apiKey="21f42f7d-3d2a-4d00-9a48-c399275cd2ba" -orgID=482208 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true'
-
 - script: |
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
