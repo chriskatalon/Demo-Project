@@ -21,8 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://katalon.com/')
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.closeBrowser()
-
 

@@ -12,9 +12,12 @@
       </entry>
       <entry>
          <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
          <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>IMAGE</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

@@ -37,11 +37,4 @@
       <testCaseId>Test Cases/TC2 - Go to google 1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>ec3e090f-e0ed-4ef0-ab6f-fe3dbfc94447</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC1 - Browse to katalon.com</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>

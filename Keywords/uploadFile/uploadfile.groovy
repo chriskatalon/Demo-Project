@@ -45,7 +45,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 class uploadfile {
 	/**
-	 * Refresh browser
+	 * UploadFile and Close Dialogue
 	 */
 
 	@Keyword
@@ -63,18 +63,5 @@ class uploadfile {
 		robot.keyRelease(KeyEvent.VK_CONTROL);
 		robot.keyPress(KeyEvent.VK_ENTER);
 		robot.keyRelease(KeyEvent.VK_ENTER);
-	}
-
-	/**
-	 * Close dialog
-	 */
-	@Keyword
-	def closedialog {
-		Robot robot = new Robot();
-		robot.keyPress(KeyEvent.VK_ALT)
-		robot.keyPress(KeyEvent.VK_F4)
-		// Function+F4 is now pressed
-		robot.keyRelease(KeyEvent.VK_F4)
-		robot.keyRelease(KeyEvent.VK_ALT)
 	}
 }

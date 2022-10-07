@@ -25,9 +25,10 @@ WebUI.focus(findTestObject('Page_Google/input__q'))
 
 WebUI.setText(findTestObject('Page_Google/input__q'), 'vietnam')
 
-WebUI.click(findTestObject('Object Repository/Page_Google/input_Delete_btnK'))
+WebUI.click(findTestObject('null'))
 
 WebUI.navigateToUrl('https://www.google.com/search?q=vietnam&source=hp&ei=UTkGY82lKtvT2roPuMWSyA0&iflsig=AJiK0e8AAAAAYwZHYYXZ52dLapyAuoO_bXNg04Gqwt0_&ved=0ahUKEwiNkvvA29_5AhXbqVYBHbiiBNkQ4dUDCAc&oq=vietnam&gs_lcp=Cgdnd3Mtd2l6EAwyEQguEIAEELEDEIMBEMcBENEDMgsIABCABBCxAxCDATILCAAQgAQQsQMQgwEyBQgAEIAEMggIABCxAxCDATIFCAAQgAQyCAgAELEDEIMBMggIABCxAxCDATIICAAQgAQQyQMyCAgAELEDEIMBOgsILhCABBCxAxCDAToOCC4QsQMQgwEQxwEQ0QM6CwguEIAEEMcBEK8BOg4ILhCxAxCDARDHARCvAToLCC4QsQMQxwEQ0QNQyCFY5yZg8zRoAnAAeACAAaYBiAHSBpIBAzAuN5gBAKABAbABALgBAw&sclient=gws-wiz')
 
 WebUI.closeBrowser()
 
+driver.switchTO()

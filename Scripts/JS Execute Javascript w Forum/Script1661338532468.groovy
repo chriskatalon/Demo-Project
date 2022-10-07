@@ -12,16 +12,16 @@ import com.kms.katalon.core.testdata.TestData as TestData
 import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
-import com.kms.katalon.core.webui.common.WebUiCommonHelper
-import com.kms.katalon.core.webui.driver.DriverFactory
+import com.kms.katalon.core.webui.common.WebUiCommonHelper as WebUiCommonHelper
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import internal.GlobalVariable
-import org.openqa.selenium.By
-import org.openqa.selenium.JavascriptExecutor
-import org.openqa.selenium.Keys
-import org.openqa.selenium.WebDriver
-import org.openqa.selenium.WebElement
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.By as By
+import org.openqa.selenium.JavascriptExecutor as JavascriptExecutor
+import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.WebDriver as WebDriver
+import org.openqa.selenium.WebElement as WebElement
 
 WebUI.openBrowser('')
 
@@ -30,8 +30,11 @@ WebUI.navigateToUrl('https://forum.katalon.com/')
 WebUI.click(findTestObject('Object Repository/Page_Katalon Community - Discuss, learn, an_96da7d/input_Welcome to Katalon Community_search-term'))
 
 WebDriver driver = DriverFactory.getWebDriver()
-WebElement element = driver.findElement(By.xpath("//input[@id='search-term']"))
-String text = "Webdriver"
+
+WebElement element = driver.findElement(By.xpath('//input[@id=\'search-term\']'))
+
+String text = 'Webdriver'
 
 //WebElement element = WebUiCommonHelper.findWebElement(findTestObject('//input[@id='search-term']),5)
-WebUI.executeJavaScript("arguments[0].value='"+ text +"';", Arrays.asList(element))
+WebUI.executeJavaScript(('arguments[0].value=\'' + text) + '\';', Arrays.asList(element))
+

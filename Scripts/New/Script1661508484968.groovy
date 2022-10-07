@@ -17,3 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://v4digital.smartfm.in/#/login')
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://v4digital.smartfm.in/#/login')
+
+WebUI.setText(findTestObject('Object Repository/Page_V4 Digital-Smartfm/input_Enter User Name_Username'), 'please')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_V4 Digital-Smartfm/input_Enter User Name_Username'), Keys.chord(Keys.ENTER))
+

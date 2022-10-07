@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "C12A75DE97B06E49B7C6E418EC3B5363",
+  "keywordClasses": [
+    {
+      "name": "com.example.ConvertWebElement",
+      "keywordMethods": [
+        {
+          "name": "createTestObject",
+          "parameters": [
+            {
+              "name": "locator",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
