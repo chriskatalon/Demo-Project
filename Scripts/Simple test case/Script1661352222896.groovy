@@ -29,6 +29,7 @@ WebUI.click(findTestObject('null'))
 
 WebUI.navigateToUrl('https://www.google.com/search?q=vietnam&source=hp&ei=UTkGY82lKtvT2roPuMWSyA0&iflsig=AJiK0e8AAAAAYwZHYYXZ52dLapyAuoO_bXNg04Gqwt0_&ved=0ahUKEwiNkvvA29_5AhXbqVYBHbiiBNkQ4dUDCAc&oq=vietnam&gs_lcp=Cgdnd3Mtd2l6EAwyEQguEIAEELEDEIMBEMcBENEDMgsIABCABBCxAxCDATILCAAQgAQQsQMQgwEyBQgAEIAEMggIABCxAxCDATIFCAAQgAQyCAgAELEDEIMBMggIABCxAxCDATIICAAQgAQQyQMyCAgAELEDEIMBOgsILhCABBCxAxCDAToOCC4QsQMQgwEQxwEQ0QM6CwguEIAEEMcBEK8BOg4ILhCxAxCDARDHARCvAToLCC4QsQMQxwEQ0QNQyCFY5yZg8zRoAnAAeACAAaYBiAHSBpIBAzAuN5gBAKABAbABALgBAw&sclient=gws-wiz')
 
+WebUI.takeFullPageScreenshotAsCheckpoint('pic1')
+
 WebUI.closeBrowser()
 
-driver.switchTO()

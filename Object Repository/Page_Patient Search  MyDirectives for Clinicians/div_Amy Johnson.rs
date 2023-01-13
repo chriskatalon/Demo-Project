@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Amy Johnson</name>
+   <tag></tag>
+   <elementGuidId>dffe23e5-d54d-4040-9624-ab8e101f8825</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-recent']/div[2]/div/div/div/table/tbody/tr/td/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.md-table-cell-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a04e9ec5-1828-4f2e-86e9-5240eee2502f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-table-cell-container</value>
+      <webElementGuid>0d310117-0eef-4172-9c49-c140a3064abb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amy Johnson</value>
+      <webElementGuid>5f957a65-9450-4af4-8a25-fb1a9d5195e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-recent&quot;)/div[@class=&quot;md-card-content&quot;]/div[@class=&quot;table-container&quot;]/div[@class=&quot;md-content md-table md-theme-default&quot;]/div[@class=&quot;md-content md-table-content md-scrollbar md-theme-default&quot;]/table[1]/tbody[1]/tr[@class=&quot;md-table-row md-has-selection&quot;]/td[@class=&quot;md-table-cell&quot;]/div[@class=&quot;md-table-cell-container&quot;]</value>
+      <webElementGuid>69e5c96d-620b-4722-81f5-7d6476afd3ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-recent']/div[2]/div/div/div/table/tbody/tr/td/div</value>
+      <webElementGuid>a289e180-2d70-40dc-84bb-61ce4bff8857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Viewed'])[1]/following::div[1]</value>
+      <webElementGuid>ecadcb09-d9d4-47c7-9a20-5d08640b5db7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACP Status'])[1]/following::div[3]</value>
+      <webElementGuid>ee9fedbe-f0d1-4989-93f7-b11c4249a9ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Complete'])[1]/preceding::div[3]</value>
+      <webElementGuid>0518e1ae-d1b3-4f03-a1b3-49b7d144806c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No recent invitations'])[1]/preceding::div[7]</value>
+      <webElementGuid>66adc9fb-75cc-4844-aaa5-ff96016d6cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Amy Johnson']/parent::*</value>
+      <webElementGuid>ecafc7f1-70ef-4b13-abc0-f6a08a9a82f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div</value>
+      <webElementGuid>4b8b62df-1692-4296-a0ca-ec2e4bb6c9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Amy Johnson' or . = 'Amy Johnson')]</value>
+      <webElementGuid>f25fbac1-f8ab-4a92-ab46-f813c7da9a8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

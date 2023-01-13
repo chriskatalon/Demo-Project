@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Start ACP Session or View Patient Documents</name>
+   <tag></tag>
+   <elementGuidId>2f90f93e-1432-4fb5-b641-18f05c17454a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/div/div/div[2]/div/div/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.md-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aab4dd6a-9b7d-4ff0-bf95-2dbd4d3c00d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-title</value>
+      <webElementGuid>04568a62-6140-4189-9dff-334f7006718f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start ACP Session or View Patient Documents</value>
+      <webElementGuid>bac8a274-0ce8-4db7-9d12-4b488da6c2fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[@class=&quot;md-layout md-gutter md-alignment-top-left&quot;]/div[@class=&quot;user-dashboard-action-tile action-tile md-layout-item unrestrict md-size-33 md-medium-size-50 md-small-size-100 user-dashboard-tile&quot;]/div[@class=&quot;md-card md-theme-default md-with-hover&quot;]/div[@class=&quot;md-ripple&quot;]/div[@class=&quot;md-card-header md-card-header-flex&quot;]/div[@class=&quot;md-card-header-text&quot;]/div[@class=&quot;md-title&quot;]</value>
+      <webElementGuid>6a31deb3-f25a-476b-9621-498d0aa85691</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/div/div/div[2]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>f48b7f0f-a3c3-4790-9ade-f3decbc1b733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::div[10]</value>
+      <webElementGuid>4a70c917-c421-4c28-9ae9-b5fb03c14aff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='help'])[1]/following::div[10]</value>
+      <webElementGuid>0d2f8cd8-9663-4bae-8906-8b532b474b26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='search'])[1]/preceding::div[1]</value>
+      <webElementGuid>42f8f712-f8f5-40cf-87b8-29e436fe3f07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review your Reporting and Metrics'])[1]/preceding::div[4]</value>
+      <webElementGuid>15f0242d-83e5-4991-b4b1-a50930155486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start ACP Session or View Patient Documents']/parent::*</value>
+      <webElementGuid>f1ef8802-9215-4012-b648-5167a774d883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>e1586eb0-d085-4d9e-834a-7ed71aa52151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Start ACP Session or View Patient Documents' or . = 'Start ACP Session or View Patient Documents')]</value>
+      <webElementGuid>40197a83-02f2-4fe2-99cf-4b3997587af4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

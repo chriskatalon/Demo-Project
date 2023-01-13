@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password</name>
+   <tag></tag>
+   <elementGuidId>f0e42cb3-d511-446c-b2b7-eaa2dadbfe62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/div/div[2]/div/div[2]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.md-field.md-theme-default.md-has-password</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>11c65c22-6eb5-4b57-8dd3-4760b9a529a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-field md-theme-default md-has-password</value>
+      <webElementGuid>309191b4-1516-45b5-bfc2-261a4489b494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password       </value>
+      <webElementGuid>d3646242-e023-4ed0-95d2-f1958626c484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/div[@class=&quot;page-container dark-theme vh-100 hide-x-overflow&quot;]/div[@class=&quot;md-content dark-theme md-theme-default&quot;]/div[@class=&quot;md-layout&quot;]/div[@class=&quot;md-layout-item login&quot;]/div[1]/div[@class=&quot;form&quot;]/div[@class=&quot;md-field md-theme-default md-has-password&quot;]</value>
+      <webElementGuid>95d14822-b49f-4648-965c-c1b18c5be11d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/div/div[2]/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>362e6839-e987-43dd-9021-1b90078e7d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::div[1]</value>
+      <webElementGuid>9bf21f69-83eb-4114-839a-ab94c5e2557c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Login'])[1]/following::div[3]</value>
+      <webElementGuid>31d2aa15-2531-4f6e-ad51-5ac49bb6d9e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/preceding::div[3]</value>
+      <webElementGuid>19730371-7405-4698-bee7-5cf680de2f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>e72b1c74-6313-4bf5-bb72-deae23997ddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Password       ' or . = 'Password       ')]</value>
+      <webElementGuid>850357fc-9d87-4c8d-a46d-03ff9dc4bf1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -25,14 +25,15 @@ import org.openqa.selenium.WebElement as WebElement
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
+WebUI.navigateToUrl('https://www.google.com')
 
 WebDriver driver = DriverFactory.getWebDriver()
 
 WebElement element = driver.findElement(By.xpath('//input[@title = \'Search\']'))
 
-String text = 'ABC'
+//String text = 'ABC'
 
-//WebElement element = WebUiCommonHelper.findWebElement(findTestObject('null'),30)
-WebUI.executeJavaScript(('arguments[0].value=\'' + text) + '\';', Arrays.asList(element))
+WebElement element = WebUiCommonHelper.findWebElement(findTestObject(element),30)
+//WebUI.executeJavaScript(('arguments[0].value=\'' + text) + '\';', Arrays.asList(element))
 
+//WebUI.executeJavaScript("arguments[0].click()", null)

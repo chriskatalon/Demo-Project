@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>774f8174-57af-4460-8884-367392dccab4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='gallery']/li/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;The peaks of High Tatras&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b98abd4c-0749-4a37-be03-2520fa5d3bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/high_tatras_min.jpg</value>
+      <webElementGuid>036f9a0c-fbf1-48a8-bd85-d13b8c63c2bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>The peaks of High Tatras</value>
+      <webElementGuid>35638aaa-338d-49c8-9b2e-645af5477d02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>96</value>
+      <webElementGuid>d46305fd-ad21-4f28-b624-b67091c95ef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>72</value>
+      <webElementGuid>fa9b38b8-46d5-4b42-8c78-65cad3b5d818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gallery&quot;)/li[@class=&quot;ui-widget-content ui-corner-tr ui-draggable ui-draggable-handle&quot;]/img[1]</value>
+      <webElementGuid>33cebc96-1835-4709-9d47-c3a8d978c266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Drag and Drop Demo Sites  Testing Site_664cc5/iframe_Photo Manager_demo-frame lazyloaded</value>
+      <webElementGuid>2476cea9-1850-4197-8b65-33a98b2a8bf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='gallery']/li/img</value>
+      <webElementGuid>b38062e0-2ea2-4d4e-9e1e-f885d3fa9984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='The peaks of High Tatras']</value>
+      <webElementGuid>459eb1df-6f92-4cec-8d4c-6c727e94b9c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>cad71a76-5ca4-4837-b26e-d317aa2b8218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/high_tatras_min.jpg' and @alt = 'The peaks of High Tatras']</value>
+      <webElementGuid>e746f30d-0e62-4724-a3e7-1fe418db7847</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

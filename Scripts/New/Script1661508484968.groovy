@@ -27,5 +27,9 @@ WebUI.navigateToUrl('http://v4digital.smartfm.in/#/login')
 
 WebUI.setText(findTestObject('Object Repository/Page_V4 Digital-Smartfm/input_Enter User Name_Username'), 'please')
 
+WebUI.takeFullPageScreenshotAsCheckpoint('simeple login')
+
 WebUI.sendKeys(findTestObject('Object Repository/Page_V4 Digital-Smartfm/input_Enter User Name_Username'), Keys.chord(Keys.ENTER))
+
+WebUI.closeBrowser()
 

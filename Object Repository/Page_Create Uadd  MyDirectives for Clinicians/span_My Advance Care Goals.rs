@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_My Advance Care Goals</name>
+   <tag></tag>
+   <elementGuidId>6b55ec64-91d2-4ca2-8c56-c6881870d88a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/div/div/div[2]/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/div/button/div/div/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'My Advance Care Goals' or . = 'My Advance Care Goals')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.section-toggle-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>71a45974-49e9-42c8-be32-8ba91af3b8c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-toggle-button-label</value>
+      <webElementGuid>b248eeb1-053f-42fc-b307-133cac3e1d0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Advance Care Goals</value>
+      <webElementGuid>961bb4ba-9955-4804-bc6c-254bc520bf6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/div[1]/div[1]/div[@class=&quot;md-layout&quot;]/div[@class=&quot;md-layout-item unrestrict&quot;]/div[1]/div[2]/div[2]/div[@class=&quot;md-layout no-overflow&quot;]/div[@class=&quot;md-layout-item&quot;]/div[@class=&quot;md-card md-theme-default&quot;]/div[@class=&quot;md-card-content&quot;]/div[@class=&quot;text-align-initial&quot;]/div[@class=&quot;md-card survey-section-container md-theme-default md-with-hover&quot;]/div[@class=&quot;md-card-expand&quot;]/div[@class=&quot;md-card-actions md-toolbar-bg-color md-alignment-right&quot;]/button[@class=&quot;md-button md-dense md-primary section-toggle-button text-align-initial md-card-expand-trigger md-theme-default&quot;]/div[@class=&quot;md-ripple&quot;]/div[@class=&quot;md-button-content&quot;]/span[@class=&quot;section-toggle-button-label&quot;]</value>
+      <webElementGuid>3b1033e9-ddf8-45ca-876d-682f95d3dd1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/div/div/div[2]/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/div/button/div/div/span</value>
+      <webElementGuid>37697f87-8dc4-4300-9b37-5faca727b3c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_right'])[1]/following::span[1]</value>
+      <webElementGuid>42ea9128-b225-43a5-896e-7531fbeaf2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Advance Care Plan'])[1]/following::span[1]</value>
+      <webElementGuid>c32cb954-a045-4174-8045-85db8a004f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is important to you?'])[1]/preceding::span[1]</value>
+      <webElementGuid>230883af-f408-4d72-ac47-f965143cf587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select (drag) one or more items listed below to this section'])[1]/preceding::span[3]</value>
+      <webElementGuid>8cc0f7fc-9232-468d-b32d-261a3e12ef19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Advance Care Goals']/parent::*</value>
+      <webElementGuid>07e00281-9d3a-4e73-bfdc-4726f41948cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/span</value>
+      <webElementGuid>462f51f2-5381-4099-9e16-0ada3f7e5601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'My Advance Care Goals' or . = 'My Advance Care Goals')]</value>
+      <webElementGuid>76ebb205-36ff-4792-983f-d291c3d985e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
