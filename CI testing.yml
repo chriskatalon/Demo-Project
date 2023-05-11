@@ -1,4 +1,4 @@
-version: CI testing
+version: 0.2
 env:
   parameter-store:
    KATALON_API_KEY: /CodeBuild/KATALON_API_KEY
