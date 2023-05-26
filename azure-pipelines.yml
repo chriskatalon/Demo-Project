@@ -16,8 +16,9 @@ steps:
 
 - task: katalonTask@1
   inputs:
-    version: '8.3.0'
-    executeArgs: 'katalonc -noSplash -runMode=console -projectPath="C:\Users\quan.trinh\Katalon Studio\Introduction Of TestCloud with Katalon Studio\Introduction Of TestCloud with Katalon Studio.prj" -retry=0 -testSuiteCollectionPath="Test Suites/TSC - TestCloud Page" -browserType="Chrome" -executionProfile="QA from VN" -apiKey="21f42f7d-3d2a-4d00-9a48-c399275cd2ba" -orgID=482208 -testOpsProjectId=434996 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -kobiton.authentication.serverUrl="https://api.kobiton.com/wd/hub" -kobiton.authentication.username="khang.dang" -kobiton.authentication.apiKey="c8b571e7-1cec-4b7e-aab1-77db020e371b" -webui.autoUpdateDrivers=true'
+    version: '8.6.0'
+    executeArgs: 'katalonc -noSplash -runMode=console -testSuitePath="Test Suites/TS1 - Go to katalon.com" -browserType="Chrome" -executionProfile="default" -apiKey="21f42f7d-3d2a-4d00-9a48-c399275cd2ba" -orgID=785301 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY'
+
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
