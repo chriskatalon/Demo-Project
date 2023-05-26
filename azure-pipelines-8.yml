@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: windows-latest
 
 steps:
 - script: echo Hello, world!
@@ -16,7 +16,7 @@ steps:
   inputs:
     version: '8.6.0'
     executeArgs: '-testSuitePath="Test Suites/TS1 - Go to katalon.com" -browserType="Chrome" -executionProfile="default" -apiKey="21f42f7d-3d2a-4d00-9a48-c399275cd2ba" -orgID=785301 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY'
-    xvfbConfiguration: '-a -n 0 -s "-screen 0 1024x768x24"'
+
     
 - script: |
     echo Add other tasks to build, test, and deploy your project.
