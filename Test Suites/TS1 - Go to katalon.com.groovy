@@ -31,11 +31,11 @@ import com.kms.katalon.core.annotation.TearDownTestCase
 /**
  * Setup test suite environment.
  */
-sauceOptions.setCapability("name", "Web Driver demo Test");
-@SetUp(skipped = true) // Please change skipped to be false to activate this method.
-def setUp() {
+//sauceOptions.setCapability("name", "Web Driver demo Test");
+@SetUp(skipped = false // Please change skipped to be false to activate this method.
+	
 	// Put your code here.
-}
+
 
 /**
  * Clean test suites environment.
