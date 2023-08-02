@@ -40,10 +40,10 @@ import com.kms.katalon.core.annotation.TearDownTestCase
 /**
  * Clean test suites environment.
  */
-@TearDown(skipped = true) // Please change skipped to be false to activate this method.
-def tearDown() {
+//@TearDown(skipped = true) // Please change skipped to be false to activate this method.
+
 	// Put your code here.
-}
+
 
 /**
  * Run before each test case starts.
