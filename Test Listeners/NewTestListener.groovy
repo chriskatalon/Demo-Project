@@ -31,15 +31,9 @@ class NewTestListener {
 	@BeforeTestSuite
 	def sampleBeforeTestSuite(TestSuiteContext testSuiteContext) {
 		// Specify the name of the process (chromedriver.exe) you want to terminate
-		String processName = "chromedriver.exe"
+Runtime.getRuntime().exec(“taskkill /im chromedriver.exe /f”)
+Runtime.getRuntime().exec(“taskkill /im chrome.exe /f”)
 
-		// Execute the taskkill command to terminate the process
-		try {
-			new ProcessBuilder("taskkill", "/f", "/im", processName).start()
-			println "Process '$processName' terminated successfully."
-		} catch (Exception e) {
-			println "Failed to terminate process '$processName'."
-			e.printStackTrace()
 		}
 	}
 
