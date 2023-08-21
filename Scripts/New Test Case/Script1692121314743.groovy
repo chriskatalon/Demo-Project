@@ -16,10 +16,28 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.By as By
+import org.openqa.selenium.JavascriptExecutor as JavascriptExecutor
+import org.openqa.selenium.WebDriver as WebDriver
+import org.openqa.selenium.WebElement as WebElement
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 
-WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://katalon.com/')
+WebUI.openBrowser('https://demoqa.com/tool-tips')
 
-WebUI.closeBrowser()
+WebDriver driver = DriverFactory.getWebDriver()
+
+WebElement button = driver.findElement(By.id('toolTipButton'))
+
+//WebElement toolTip = driver.findElement(By.cssSelector("#tooltiptext"));
+//WebElement toolTip = driver.findElement(By.cssSelector("#toolTipTextField"))
+
+// To get the tool tip text and assert
+//String toolTipText = toolTip.getText()
+
+String ButtonText = button.getText()
+
+//System.out.println('toolTipText-->' + toolTipText)
+
+System.out.println('toolTipText-->' + ButtonText)
 

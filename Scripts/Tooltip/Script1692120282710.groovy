@@ -19,7 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://katalon.com/')
+WebUI.navigateToUrl('https://www.w3schools.com/css/css_tooltip.asp')
+
+WebUI.switchToWindowTitle('CSS Tooltip')
+
+WebUI.mouseOver(findTestObject('Object Repository/div_Top    Tooltip text'))
+
+String js = '''
+var selector = "bs-tooltip-container div.tooltip-inner";
+return document.querySelector(selector).innerText;
+'''
+String text = WebUI.executeJavaScript(js, null)
+
+WebUI.mouseOver(findTestObject('Object Repository/div_Right    Tooltip text'))
 
 WebUI.closeBrowser()
 
