@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "FECE22B603B54F9976C5362060FC5BBC",
+  "keywordFileContentHash": "078568535EA096345379FDF5AF354202",
   "keywordClasses": [
     {
       "name": "uploadFile.uploadfile",
@@ -34,7 +34,7 @@
               }
             }
           ],
-          "javadoc": "/**\r\n\t * Refresh browser\r\n\t */"
+          "javadoc": "/**\n\t * Refresh browser\n\t */"
         }
       ]
     }

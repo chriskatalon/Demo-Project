@@ -17,3 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(GlobalVariable.url)
+
+WebUI.setViewPortSize(1000, 600)
+
+WebUI.takeScreenshot()
+
+WebUI.setText(findTestObject('Page_Resumable File Upload Demo  tus/input_Select a file you want to upload_js-file-input'), 
+    'abc')
+
