@@ -23,3 +23,5 @@ WebUI.navigateToUrl('https://katalon.com/')
 
 WebUI.closeBrowser()
 
+WebUI.callTestCase(findTestCase('JS Execute Javascript w Forum'), [:], FailureHandling.STOP_ON_FAILURE)
+

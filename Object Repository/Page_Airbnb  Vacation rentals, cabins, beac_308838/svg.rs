@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>152b3eae-e856-4432-bba5-12ab6c02d83b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Airbnb your home'])[1]/following::*[name()='svg'][3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fs7xov7.atm_7l_1esdqks.atm_am_sfpmae.atm_e2_x4u3u4.atm_gz_1qdqwt3.atm_ks_15vqwwr.atm_mk_h2mmj6.atm_vy_x4u3u4.atm_wq_kb7nvz.dir.dir-ltr > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;cypress-headernav-profile&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>bf0e79cf-2d8a-43de-bd80-70934bc883e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>df53e042-8c06-4b05-9d69-014120c1a10e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 32 32</value>
+      <webElementGuid>dc3fffa9-4fcd-49bc-a206-099838fce5c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c9e07ae7-3ab7-47d2-94e0-c939e90b2490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>4dfbe206-4f4a-4448-8c55-f628b31bf7a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c37aad81-654e-415b-b903-0fac28ed0a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-application&quot;)/div[1]/div[@class=&quot;t1bgcr6e  cjz5kiq&quot;]/div[1]/div[1]/div[@class=&quot;cd56ld atm_1l7p0i1_lepw20 atm_1298uvg_idpfg4 atm_mk_h2mmj6 atm_fb_1cl4t0h atm_1ngntrb_1y44olf atm_lcucu6_1tcgj5g atm_lcucu6_1ylpe5n__oggzyc atm_1efm4uq_1fwxnve__oggzyc atm_1efm4uq_grho7r_hpb1k1_oggzyc atm_lcucu6_1ylpe5n__qky54b atm_lcucu6_u29brm__jx8car cb80sj1 atm_kt_glywfm dir dir-ltr&quot;]/div[@class=&quot;h1uz6jp0 atm_mk_1if85x1 atm_26_1x778eo atm_tk_idpfg4 atm_vy_1osqo2v atm_wq_zo7u8 atm_8w_1ao1b4e atm_vz_roksyz atm_uc_gu2jrj atm_kv_w4560f__x9bh64 atm_8w_1ao1b4e_26q3g_x9bh64 h167ogxp atm_e2_ghg70p atm_8y_ghg70p atm_e2_93m85z__1v156lz atm_8y_93m85z__1v156lz h119o44h atm_uq_6fnovq atm_ui_17mj160 atm_uv_1gph53b atm_ud_ijgfj7 h1l8mybd atm_5j_m4o6ir atm_70_1ksm74j atm_tr_zdpdoq atm_ui_5cps1q__1rrf6b5 atm_ud_5cps1q__1rrf6b5 atm_tr_iwagqc__oggzyc dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 atm_9s_1txwivl_vmtskl atm_92_1yyfdc7_vmtskl atm_9s_1txwivl_9in345 atm_92_1yyfdc7_9in345 dir dir-ltr&quot;]/div[1]/div[@class=&quot;dir dir-ltr&quot;]/header[@class=&quot;c1n59gz0 atm_e2_u29brm atm_fq_idpfg4 atm_vy_1osqo2v atm_wq_b4wlg atm_a2e10m_r0d14n atm_mk_h2mmj6 atm_2g_1z11bz7_vmtskl atm_92_1yyfdc7_vmtskl atm_e2_1pv1u40_vmtskl atm_fq_idpfg4_vmtskl atm_k4_idpfg4_vmtskl atm_mj_glywfm_vmtskl atm_mk_stnw88_vmtskl atm_tk_idpfg4_vmtskl atm_vy_1osqo2v_vmtskl atm_wq_idpfg4_vmtskl atm_uc_19sx4ta_vmtskl atm_uc_glywfm_vmtskl_1rrf6b5 atm_tw_quts3p_9in345 atm_26_1p8m8iw_9in345 atm_92_1yyfdc7_9in345 atm_fq_idpfg4_9in345 atm_mk_stnw88_9in345 atm_tk_idpfg4_9in345 atm_vy_1osqo2v_9in345 atm_wq_idpfg4_9in345 c1xe8pfh atm_e2_1osqo2v_9in345 atm_tr_4izeyk_9in345 atm_uc_5cp38c_9in345 atm_vz_1e032xh_9in345 atm_70_glywfm_9in345 atm_tr_1v7rbkb_9in345_1cimzp4 ctar7j6 atm_k4_idpfg4_9in345 dir dir-ltr&quot;]/div[@class=&quot;cxwzxta atm_fc_1yb4nlp atm_h_1h6ojuz atm_9s_1txwivl atm_e2_1osqo2v atm_mk_h2mmj6 atm_vy_1osqo2v atm_wq_kb7nvz c1fbeeyh atm_j3_1371zjx atm_gw_1wugsn5 atm_lj_ke7zzc atm_li_ke7zzc dir dir-ltr&quot;]/div[@class=&quot;ck7trkd atm_am_1gtjylf atm_am_1hvxjc4__1v156lz dir dir-ltr&quot;]/nav[@class=&quot;_vuzcgs&quot;]/div[@class=&quot;_3hmsj&quot;]/div[@class=&quot;_167wsvl&quot;]/button[@class=&quot;cnky2vc atm_1s_glywfm atm_26_1j28jx2 atm_9j_tlke0l atm_bx_1kw7nm4 atm_c8_1kw7nm4 atm_cs_1kw7nm4 atm_gi_idpfg4 atm_ks_ewfl5b atm_r3_1kw7nm4 atm_rd_glywfm atm_vb_1wugsn5 atm_kd_glywfm atm_h_1h6ojuz atm_2d_1p8m8iw atm_3f_1vlbu9m atm_5j_1rwtgmb atm_7l_dezgoh atm_9s_116y0ak atm_e2_12oa1m8 atm_l8_ef04uq atm_mk_h2mmj6 atm_vh_nkobfv atm_uc_aaiy6o atm_wq_kb7nvz atm_g3_qnbkur atm_3f_glywfm_jo46a5 atm_l8_idpfg4_jo46a5 atm_gi_idpfg4_jo46a5 atm_3f_glywfm_1icshfk atm_kd_glywfm_19774hq atm_uc_glywfm__1rrf6b5 atm_uc_aaiy6o_1w3cfyq atm_70_lgq2mu_1w3cfyq atm_uc_glywfm_1w3cfyq_1rrf6b5 atm_uc_aaiy6o_pfnrn2_1oszvuo atm_70_lgq2mu_pfnrn2_1oszvuo atm_uc_glywfm_pfnrn2_1o31aam c1r2bm7w atm_70_1p8xsmn_1nos8r cln384f atm_1ieuuo9_1vi7ecw atm_1dfygl2_fyhuej atm_1lqvdwn_1ul9x4n atm_f4syw5_ftgil2 atm_1255xc1_dlk8xv atm_1ellefq_12etsqc atm_vl4zd4_t94yts dir dir-ltr&quot;]/div[@class=&quot;fs7xov7 atm_7l_1esdqks atm_am_sfpmae atm_e2_x4u3u4 atm_gz_1qdqwt3 atm_ks_15vqwwr atm_mk_h2mmj6 atm_vy_x4u3u4 atm_wq_kb7nvz dir dir-ltr&quot;]/svg[1]</value>
+      <webElementGuid>91966094-d765-4857-bf1a-f6e4630e4e9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airbnb your home'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>fd52a361-8461-420c-92c2-5493f2c64479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>cccb1d72-469c-4108-be87-ed8c730d5dc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Icons'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>ec6b0a13-e2f2-480a-8e79-9fb8cf7e4963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rooms'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>4197967b-08ec-4691-abcd-40b19203c9ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -27,11 +27,23 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://forum.katalon.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Katalon Community - Discuss, learn, an_96da7d/input_Welcome to Katalon Community_search-term'))
+//WebUI.click(findTestObject('Object Repository/Page_Katalon Community - Discuss, learn, an_96da7d/input_Welcome to Katalon Community_search-term'))
 
 WebDriver driver = DriverFactory.getWebDriver()
-WebElement element = driver.findElement(By.xpath("//input[@id='search-term']"))
-String text = "Webdriver"
 
+
+// Click Login Button
+WebElement loginButton = driver.findElement(By.xpath("//span[.='Log In']"))
+WebUI.executeJavaScript("arguments[0].click()", Arrays.asList(loginButton))
+
+
+String text = "Webdriver"
+WebElement search = driver.findElement(By.xpath("//input[@id='search-term']"))
+WebUI.executeJavaScript("arguments[0].value='"+ text +"';", Arrays.asList(search))
+
+//WebUI.executeJavaScript("arguments[0].click()", Arrays.asList(search))
 //WebElement element = WebUiCommonHelper.findWebElement(findTestObject('//input[@id='search-term']),5)
-WebUI.executeJavaScript("arguments[0].value='"+ text +"';", Arrays.asList(element))
+
+//WebUI.executeJavaScript(‘arguments[0].click()’, Arrays.asList(element))
+
+

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_Attachments(0)</name>
+   <tag></tag>
+   <elementGuidId>39eadcdb-3c31-489c-a8a4-f755bd66a11b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_9']/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-case_-record_-page2___-case___-v-i-e-w/forcegenerated-flexipage_case_record_page2_case__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div[2]/div[2]/slot/flexipage-component2[5]/slot/lst-related-list-single-container/laf-progressive-container/slot/lst-related-list-single-aura-wrapper/div/div/article/div/header</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#brandBand_9 > div.slds-template__container > div.oneRecordHomeFlexipage2Wrapper > div.recordHomeFlexipage2 > one-record-home-flexipage2 > forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-case_-record_-page2___-case___-v-i-e-w.adg-rollup-wrapped > forcegenerated-flexipage_case_record_page2_case__view_js.forcegenerated-flexipage-module > record_flexipage-desktop-record-page-decorator > div.record-page-decorator > records-record-layout-event-broker > slot > slot > flexipage-record-home-template-desktop2.forcegenerated-flexipage-template > div.slds-grid.slds-wrap > div.slds-grid.slds-wrap.slds-col.slds-size_1-of-1.row.row-main > div.column.slds-size_1-of-1.slds-medium-size_4-of-12.slds-large-size_4-of-12.region-sidebar-right > slot[name=&quot;sidebar&quot;] > flexipage-component2:nth-of-type(5) > slot > lst-related-list-single-container > laf-progressive-container > slot > lst-related-list-single-aura-wrapper > div > div.container.forceRelatedListSingleContainer > article.slds-card.slds-card_boundary.forceRelatedListCardDesktop > div.slds-grid.slds-page-header.forceRelatedListCardHeader > header.slds-media.slds-media--center.slds-has-flexi-truncate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>f1797373-a22c-4ebb-8a69-19c6255c2957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-media slds-media--center slds-has-flexi-truncate</value>
+      <webElementGuid>5b0bd400-f33b-4c98-ab8a-1df645a58bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>11767:0</value>
+      <webElementGuid>c6c3a724-b7f7-4ff0-bb58-f35a6ef2db78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Attachments(0)</value>
+      <webElementGuid>e120a161-3e32-4454-b0b5-7acdfd2ce47c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_9&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;oneRecordHomeFlexipage2Wrapper&quot;]/div[@class=&quot;recordHomeFlexipage2&quot;]/one-record-home-flexipage2[1]/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-case_-record_-page2___-case___-v-i-e-w[@class=&quot;adg-rollup-wrapped&quot;]/forcegenerated-flexipage_case_record_page2_case__view_js[@class=&quot;forcegenerated-flexipage-module&quot;]/record_flexipage-desktop-record-page-decorator[1]/div[@class=&quot;record-page-decorator&quot;]/records-record-layout-event-broker[1]/slot[1]/slot[1]/flexipage-record-home-template-desktop2[@class=&quot;forcegenerated-flexipage-template&quot;]/div[@class=&quot;slds-grid slds-wrap&quot;]/div[@class=&quot;slds-grid slds-wrap slds-col slds-size_1-of-1 row row-main&quot;]/div[@class=&quot;column slds-size_1-of-1 slds-medium-size_4-of-12 slds-large-size_4-of-12 region-sidebar-right&quot;]/slot[1]/flexipage-component2[5]/slot[1]/lst-related-list-single-container[1]/laf-progressive-container[1]/slot[1]/lst-related-list-single-aura-wrapper[1]/div[1]/div[@class=&quot;container forceRelatedListSingleContainer&quot;]/article[@class=&quot;slds-card slds-card_boundary forceRelatedListCardDesktop&quot;]/div[@class=&quot;slds-grid slds-page-header forceRelatedListCardHeader&quot;]/header[@class=&quot;slds-media slds-media--center slds-has-flexi-truncate&quot;]</value>
+      <webElementGuid>710825c9-b9b4-455b-b287-e9eccfe3ced2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_9']/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-case_-record_-page2___-case___-v-i-e-w/forcegenerated-flexipage_case_record_page2_case__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div[2]/div[2]/slot/flexipage-component2[5]/slot/lst-related-list-single-container/laf-progressive-container/slot/lst-related-list-single-aura-wrapper/div/div/article/div/header</value>
+      <webElementGuid>1d445306-f096-4d43-b040-16a09cece86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Call Recording'])[2]/following::header[1]</value>
+      <webElementGuid>8c7fc6f5-9e5c-4bad-bc94-87f96676e236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Recording'])[3]/following::header[1]</value>
+      <webElementGuid>fee244ab-aaa4-40cb-9bb6-bf8ced8c78c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[8]/div/div/section/div/div[2]/div/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-case_-record_-page2___-case___-v-i-e-w/forcegenerated-flexipage_case_record_page2_case__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div[2]/div[2]/slot/flexipage-component2[5]/slot/lst-related-list-single-container/laf-progressive-container/slot/lst-related-list-single-aura-wrapper/div/div/article/div/header</value>
+      <webElementGuid>f75e32c3-9762-4bc8-b40d-bc0e39c18898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = 'Attachments(0)' or . = 'Attachments(0)')]</value>
+      <webElementGuid>6a6b2f10-0faf-4e0a-b035-e8bfcc0b5baf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

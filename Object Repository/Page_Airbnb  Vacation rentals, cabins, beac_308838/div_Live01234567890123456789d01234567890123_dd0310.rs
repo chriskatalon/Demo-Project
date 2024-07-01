@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Live01234567890123456789d01234567890123_dd0310</name>
+   <tag></tag>
+   <elementGuidId>d707d9b4-d426-463f-a56c-034e229b4c91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='site-content']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.f12t1m0s.atm_j3_1371zjx.atm_gw_1wugsn5.atm_lj_ke7zzc.atm_li_ke7zzc.atm_26_1p8m8iw.atm_8w_wetwqu.atm_vy_1osqo2v.atm_gp_1ixj6vq.f10v78d0.atm_go_dnsvzo.txsn4eb.atm_uq_193wnbv.atm_ui_4xk30f.atm_uv_d4a9ia.atm_ud_r6bot9.atm_ui_r6bot9__1rrf6b5.tmmpy2p.atm_tr_iwagqc.dir.dir-ltr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.f12t1m0s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1f80b7cb-0c87-4afb-b72a-4e678245a663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f12t1m0s atm_j3_1371zjx atm_gw_1wugsn5 atm_lj_ke7zzc atm_li_ke7zzc atm_26_1p8m8iw atm_8w_wetwqu atm_vy_1osqo2v atm_gp_1ixj6vq f10v78d0 atm_go_dnsvzo txsn4eb atm_uq_193wnbv atm_ui_4xk30f atm_uv_d4a9ia atm_ud_r6bot9 atm_ui_r6bot9__1rrf6b5 tmmpy2p atm_tr_iwagqc dir dir-ltr</value>
+      <webElementGuid>3d6c5ea4-4e8c-4ab9-bb91-432db0967a5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Live01234567890123456789d01234567890123456789h01234567890123456789m01234567890123456789h01234567890123456789m01234567890123456789sLiveDesign your Incredibles SupersuitHosted by Edna ModeHosted by Edna Mode$0 per guest$0 per guestLive01234567890123456789d01234567890123456789h01234567890123456789m01234567890123456789h01234567890123456789m01234567890123456789sLiveWake up in the Musée d’OrsayHosted by Mathieu LehanneurHosted by Mathieu Lehanneur$0 per guest$0 per guestLive01234567890123456789d01234567890123456789h01234567890123456789m01234567890123456789h01234567890123456789m01234567890123456789sLiveCrash at the X-MansionHosted by JubileeHosted by Jubilee$97 per guest$97 per guestMake core memories with Inside Out 2Hosted by JoyHosted by JoyComing June$0 per guest$0 per guestStay in Prince’s Purple Rain houseHosted by Wendy and LisaHosted by Wendy and LisaComing August$6 per guest$6 per guestGo VIP with Kevin HartHosted by Kevin HartHosted by Kevin HartComing August$26 per guest$26 per guestJoin a living room session with DojaHosted by Doja CatHosted by Doja CatComing October$100 per guest$100 per guestLive like Bollywood star Janhvi KapoorHosted by Janhvi KapoorHosted by Janhvi KapoorSold out$0 per guest$0 per guestTrain at the X-MansionHosted by JubileeHosted by JubileeSold out$39 per guest$39 per guestGo on tour with FeidHosted by FeidHosted by FeidSold out$19 per guest$19 per guestGame with Khaby LameHosted by Khaby LameHosted by Khaby LameSold out$0 per guest$0 per guestDrift off in the Up houseHosted by Carl FredricksenHosted by Carl FredricksenSold out$0 per guest$0 per guestPast experiencesSpend the night in the Ferrari MuseumHosted by Marc GenéHosted by Marc GenéSold out$0 per guest$0 per guestShrek’s SwampHosted by DonkeyHosted by DonkeySold out$15 per guest$15 per guestBarbie’s Malibu DreamHouse, Ken’s WayHosted by KenHosted by KenSold out$0 per guest$0 per guestTed Lasso’s Favorite PubHosted by MaeHosted by MaeSold out$17 per guest$17 per guestHouseplant RetreatHosted by Seth RogenHosted by Seth RogenSold out$57 per guest$57 per guestHome Alone HolidayHosted by BuzzHosted by BuzzSold out$31 per guest$31 per guestThe Last BlockbusterHosted by SandiHosted by SandiSold out$6 per guest$6 per guest</value>
+      <webElementGuid>181fb291-b7ae-4c44-9413-95dc5e9f421b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-content&quot;)/div[@class=&quot;f12t1m0s atm_j3_1371zjx atm_gw_1wugsn5 atm_lj_ke7zzc atm_li_ke7zzc atm_26_1p8m8iw atm_8w_wetwqu atm_vy_1osqo2v atm_gp_1ixj6vq f10v78d0 atm_go_dnsvzo txsn4eb atm_uq_193wnbv atm_ui_4xk30f atm_uv_d4a9ia atm_ud_r6bot9 atm_ui_r6bot9__1rrf6b5 tmmpy2p atm_tr_iwagqc dir dir-ltr&quot;]</value>
+      <webElementGuid>14ba9ab0-8892-4fb7-b5e5-67787e49bc42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='site-content']/div[2]</value>
+      <webElementGuid>79149b30-1c37-4de8-8065-48f27a72db05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show map'])[1]/following::div[3]</value>
+      <webElementGuid>0e20ee39-c1bf-4da7-bf15-085b09fc965c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display total before taxes'])[1]/following::div[6]</value>
+      <webElementGuid>0f573853-1e60-41ce-851f-5bacf33bbfea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]</value>
+      <webElementGuid>b2989501-ce37-4d53-b875-05bef5c02383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Live01234567890123456789d01234567890123456789h01234567890123456789m01234567890123456789h01234567890123456789m01234567890123456789sLiveDesign your Incredibles SupersuitHosted by Edna ModeHosted by Edna Mode$0 per guest$0 per guestLive01234567890123456789d01234567890123456789h01234567890123456789m01234567890123456789h01234567890123456789m01234567890123456789sLiveWake up in the Musée d’OrsayHosted by Mathieu LehanneurHosted by Mathieu Lehanneur$0 per guest$0 per guestLive01234567890123456789d01234567890123456789h01234567890123456789m01234567890123456789h01234567890123456789m01234567890123456789sLiveCrash at the X-MansionHosted by JubileeHosted by Jubilee$97 per guest$97 per guestMake core memories with Inside Out 2Hosted by JoyHosted by JoyComing June$0 per guest$0 per guestStay in Prince’s Purple Rain houseHosted by Wendy and LisaHosted by Wendy and LisaComing August$6 per guest$6 per guestGo VIP with Kevin HartHosted by Kevin HartHosted by Kevin HartComing August$26 per guest$26 per guestJoin a living room session with DojaHosted by Doja CatHosted by Doja CatComing October$100 per guest$100 per guestLive like Bollywood star Janhvi KapoorHosted by Janhvi KapoorHosted by Janhvi KapoorSold out$0 per guest$0 per guestTrain at the X-MansionHosted by JubileeHosted by JubileeSold out$39 per guest$39 per guestGo on tour with FeidHosted by FeidHosted by FeidSold out$19 per guest$19 per guestGame with Khaby LameHosted by Khaby LameHosted by Khaby LameSold out$0 per guest$0 per guestDrift off in the Up houseHosted by Carl FredricksenHosted by Carl FredricksenSold out$0 per guest$0 per guestPast experiencesSpend the night in the Ferrari MuseumHosted by Marc GenéHosted by Marc GenéSold out$0 per guest$0 per guestShrek’s SwampHosted by DonkeyHosted by DonkeySold out$15 per guest$15 per guestBarbie’s Malibu DreamHouse, Ken’s WayHosted by KenHosted by KenSold out$0 per guest$0 per guestTed Lasso’s Favorite PubHosted by MaeHosted by MaeSold out$17 per guest$17 per guestHouseplant RetreatHosted by Seth RogenHosted by Seth RogenSold out$57 per guest$57 per guestHome Alone HolidayHosted by BuzzHosted by BuzzSold out$31 per guest$31 per guestThe Last BlockbusterHosted by SandiHosted by SandiSold out$6 per guest$6 per guest' or . = 'Live01234567890123456789d01234567890123456789h01234567890123456789m01234567890123456789h01234567890123456789m01234567890123456789sLiveDesign your Incredibles SupersuitHosted by Edna ModeHosted by Edna Mode$0 per guest$0 per guestLive01234567890123456789d01234567890123456789h01234567890123456789m01234567890123456789h01234567890123456789m01234567890123456789sLiveWake up in the Musée d’OrsayHosted by Mathieu LehanneurHosted by Mathieu Lehanneur$0 per guest$0 per guestLive01234567890123456789d01234567890123456789h01234567890123456789m01234567890123456789h01234567890123456789m01234567890123456789sLiveCrash at the X-MansionHosted by JubileeHosted by Jubilee$97 per guest$97 per guestMake core memories with Inside Out 2Hosted by JoyHosted by JoyComing June$0 per guest$0 per guestStay in Prince’s Purple Rain houseHosted by Wendy and LisaHosted by Wendy and LisaComing August$6 per guest$6 per guestGo VIP with Kevin HartHosted by Kevin HartHosted by Kevin HartComing August$26 per guest$26 per guestJoin a living room session with DojaHosted by Doja CatHosted by Doja CatComing October$100 per guest$100 per guestLive like Bollywood star Janhvi KapoorHosted by Janhvi KapoorHosted by Janhvi KapoorSold out$0 per guest$0 per guestTrain at the X-MansionHosted by JubileeHosted by JubileeSold out$39 per guest$39 per guestGo on tour with FeidHosted by FeidHosted by FeidSold out$19 per guest$19 per guestGame with Khaby LameHosted by Khaby LameHosted by Khaby LameSold out$0 per guest$0 per guestDrift off in the Up houseHosted by Carl FredricksenHosted by Carl FredricksenSold out$0 per guest$0 per guestPast experiencesSpend the night in the Ferrari MuseumHosted by Marc GenéHosted by Marc GenéSold out$0 per guest$0 per guestShrek’s SwampHosted by DonkeyHosted by DonkeySold out$15 per guest$15 per guestBarbie’s Malibu DreamHouse, Ken’s WayHosted by KenHosted by KenSold out$0 per guest$0 per guestTed Lasso’s Favorite PubHosted by MaeHosted by MaeSold out$17 per guest$17 per guestHouseplant RetreatHosted by Seth RogenHosted by Seth RogenSold out$57 per guest$57 per guestHome Alone HolidayHosted by BuzzHosted by BuzzSold out$31 per guest$31 per guestThe Last BlockbusterHosted by SandiHosted by SandiSold out$6 per guest$6 per guest')]</value>
+      <webElementGuid>aafee6fb-277b-492d-96ea-f69b25f0fece</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

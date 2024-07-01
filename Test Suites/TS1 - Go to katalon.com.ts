@@ -26,7 +26,7 @@
    <testCaseLink>
       <guid>264a580c-7a2b-4c46-b35c-1b63c9d2b27e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/TC1 - Browse to katalon.com</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_00012491</name>
+   <tag></tag>
+   <elementGuidId>e3da81d4-fd52-46d7-b5c0-7c63968c1900</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='suggestionsList-470']/search_dialog-instant-result-item/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.slds-text-body--regular.slds-text-color--default.slds-truncate.slds-show</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1a719373-4c24-4720-80fc-fe03a534d949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-text-body--regular slds-text-color--default slds-truncate slds-show</value>
+      <webElementGuid>55374160-491d-4dcd-bdaa-c34f3777e9fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>00012491</value>
+      <webElementGuid>fdcef9f4-9121-4c5f-8fdd-ecaedbe7df8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>00012491</value>
+      <webElementGuid>9de8e7fb-be5c-4103-abd9-b2696befd3b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;suggestionsList-470&quot;)/search_dialog-instant-result-item[1]/div[@class=&quot;slds-text-link--reset slds-grid slds-grid--vertical-align-center slds-truncate instant-result-item slds-p-left_small two-fields instant-result-item-record-suggestion focused&quot;]/div[@class=&quot;slds-truncate instant-result-item__content&quot;]/span[@class=&quot;slds-text-body--regular slds-text-color--default slds-truncate slds-show&quot;]</value>
+      <webElementGuid>2bd6d0af-1908-43ee-9bad-9542354f30d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suggestionsList-470']/search_dialog-instant-result-item/div/div[2]/span</value>
+      <webElementGuid>16031b3a-1f92-4bc4-9309-52ff40c51374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/following::span[2]</value>
+      <webElementGuid>f689f33b-8900-4910-9f5f-60925b8d16de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Cases and more'])[1]/following::span[3]</value>
+      <webElementGuid>71804f9b-fa85-4cd5-8a5d-12d46004e754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ONLY'])[1]/preceding::span[2]</value>
+      <webElementGuid>143f4156-7cd1-49c0-80ae-38ec3686e6bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//search_dialog-instant-result-item/div/div[2]/span</value>
+      <webElementGuid>712ddab2-8b9b-40e7-9329-bc021588f54c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = '00012491' and (text() = '00012491' or . = '00012491')]</value>
+      <webElementGuid>3e915234-a221-4418-816d-4af7357d707c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

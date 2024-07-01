@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_The Katalon Platform</name>
+   <tag></tag>
+   <elementGuidId>69272ac5-8896-4240-87a9-ad43693a2786</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='saas-container']/div/section/div/article[2]/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.productTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>article >> internal:has-text=&quot;The Katalon Platform Sold by: Katalon Inc. Free trialVendor Insights Katalon is &quot;i >> internal:role=heading</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>21b3ceb4-b5c8-4b27-a3c8-be775abd82a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>productTitle</value>
+      <webElementGuid>2c33ddfe-a0d1-4712-b331-45df53a2d822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Katalon Platform</value>
+      <webElementGuid>e766f4d6-7656-43dd-a171-6c1c91e40cb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;saas-container&quot;)/div[@class=&quot;pdp-header&quot;]/section[@class=&quot;summary-container pdp-summary&quot;]/div[@class=&quot;row container&quot;]/article[@class=&quot;col-xs-7 summary-center&quot;]/h1[@class=&quot;productTitle&quot;]</value>
+      <webElementGuid>4fcd41f6-30d0-4ba2-b25e-4a48f141219a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='saas-container']/div/section/div/article[2]/h1</value>
+      <webElementGuid>4cf7297c-284f-4f7b-830c-ea2d6c50f8b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[2]/following::h1[1]</value>
+      <webElementGuid>c69cf6ec-fe36-4fbb-ae0f-a5f174581ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Web Services Home'])[2]/following::h1[1]</value>
+      <webElementGuid>d0d9d183-5894-4bd4-a210-6409aee93910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sold by:'])[1]/preceding::h1[1]</value>
+      <webElementGuid>d162c86e-eeb7-48d4-834f-127b3e51cd87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Inc.'])[1]/preceding::h1[1]</value>
+      <webElementGuid>d972affa-06d5-43f7-b649-404ffc14aade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Katalon Platform']/parent::*</value>
+      <webElementGuid>bdfe3134-7e1f-462c-96bc-de00705eb626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>6c20bfad-c9bd-46cb-a0d9-8b0ea45c1638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'The Katalon Platform' or . = 'The Katalon Platform')]</value>
+      <webElementGuid>bd836d89-4cff-4a7d-baec-b3faf9ee093f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

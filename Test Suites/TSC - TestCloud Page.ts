@@ -3,31 +3,16 @@
    <description></description>
    <name>TSC - TestCloud Page</name>
    <tag></tag>
-   <delayBetweenInstances>0</delayBetweenInstances>
-   <executionMode>SEQUENTIAL</executionMode>
-   <maxConcurrentInstances>8</maxConcurrentInstances>
+   <delayBetweenInstances>20</delayBetweenInstances>
+   <executionMode>PARALLEL</executionMode>
+   <maxConcurrentInstances>2</maxConcurrentInstances>
    <testSuiteRunConfigurations>
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
-            <requireConfigurationData>true</requireConfigurationData>
-            <runConfigurationData>
-               <entry>
-                  <key>testCloudEnvironment</key>
-                  <value>{
-  &quot;id&quot;: 256,
-  &quot;osDisplayName&quot;: &quot;Windows&quot;,
-  &quot;browserName&quot;: &quot;chrome&quot;,
-  &quot;browserDisplayName&quot;: &quot;Chrome&quot;,
-  &quot;browserVersion&quot;: &quot;114&quot;,
-  &quot;os&quot;: &quot;windows&quot;,
-  &quot;timeout&quot;: 15,
-  &quot;usingTunnel&quot;: false
-}</value>
-               </entry>
-            </runConfigurationData>
-            <runConfigurationId>TestCloud</runConfigurationId>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/TS2 - Go to google</testSuiteEntity>
@@ -36,23 +21,8 @@
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
-            <requireConfigurationData>true</requireConfigurationData>
-            <runConfigurationData>
-               <entry>
-                  <key>testCloudEnvironment</key>
-                  <value>{
-  &quot;id&quot;: 256,
-  &quot;osDisplayName&quot;: &quot;Windows&quot;,
-  &quot;browserName&quot;: &quot;chrome&quot;,
-  &quot;browserDisplayName&quot;: &quot;Chrome&quot;,
-  &quot;browserVersion&quot;: &quot;114&quot;,
-  &quot;os&quot;: &quot;windows&quot;,
-  &quot;timeout&quot;: 15,
-  &quot;usingTunnel&quot;: false
-}</value>
-               </entry>
-            </runConfigurationData>
-            <runConfigurationId>TestCloud</runConfigurationId>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Firefox (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/TS1 - Go to katalon.com</testSuiteEntity>
@@ -61,23 +31,18 @@
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
-            <requireConfigurationData>true</requireConfigurationData>
-            <runConfigurationData>
-               <entry>
-                  <key>testCloudEnvironment</key>
-                  <value>{
-  &quot;id&quot;: 256,
-  &quot;osDisplayName&quot;: &quot;Windows&quot;,
-  &quot;browserName&quot;: &quot;chrome&quot;,
-  &quot;browserDisplayName&quot;: &quot;Chrome&quot;,
-  &quot;browserVersion&quot;: &quot;114&quot;,
-  &quot;os&quot;: &quot;windows&quot;,
-  &quot;timeout&quot;: 15,
-  &quot;usingTunnel&quot;: false
-}</value>
-               </entry>
-            </runConfigurationData>
-            <runConfigurationId>TestCloud</runConfigurationId>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome (headless)</runConfigurationId>
+         </configuration>
+         <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/TS2 - Go to google</testSuiteEntity>
+      </TestSuiteRunConfiguration>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Firefox (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/TS2 - Go to google</testSuiteEntity>

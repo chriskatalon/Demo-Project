@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New</name>
+   <name>Display env information</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>188b99c6-cf70-49c4-8cfa-28f4508f4788</testCaseGuid>
+   <testCaseGuid>01761ad1-6d81-4c3d-bd17-c6d872a64719</testCaseGuid>
 </TestCaseEntity>

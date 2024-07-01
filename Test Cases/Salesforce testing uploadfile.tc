@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>Salesforce testing uploadfile</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>cebba047-9adb-488d-918a-1a1e31e6cb67</testCaseGuid>
+   <testCaseGuid>eedca61b-2a9f-47f7-9c22-588e2f9ff161</testCaseGuid>
 </TestCaseEntity>

@@ -19,15 +19,20 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('google.com')
+WebUI.navigateToUrl('https://katalon.com/pricing')
 
-WebUI.focus(findTestObject('Page_Google/input__q'))
+WebUI.click(findTestObject('Object Repository/Page_Software Quality Management Platform  _0ea48f/button_Reject All'))
 
-WebUI.setText(findTestObject('Page_Google/input__q'), 'vietnam')
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Software Quality Management Platform  _0ea48f/div_Buy via the AWS Marketplace'))
 
-WebUI.click(findTestObject('Object Repository/Page_Google/input_Delete_btnK'))
+WebUI.click(findTestObject('Object Repository/Page_Software Quality Management Platform  _0ea48f/div_Buy via the AWS Marketplace'))
 
-WebUI.navigateToUrl('https://www.google.com/search?q=vietnam&source=hp&ei=UTkGY82lKtvT2roPuMWSyA0&iflsig=AJiK0e8AAAAAYwZHYYXZ52dLapyAuoO_bXNg04Gqwt0_&ved=0ahUKEwiNkvvA29_5AhXbqVYBHbiiBNkQ4dUDCAc&oq=vietnam&gs_lcp=Cgdnd3Mtd2l6EAwyEQguEIAEELEDEIMBEMcBENEDMgsIABCABBCxAxCDATILCAAQgAQQsQMQgwEyBQgAEIAEMggIABCxAxCDATIFCAAQgAQyCAgAELEDEIMBMggIABCxAxCDATIICAAQgAQQyQMyCAgAELEDEIMBOgsILhCABBCxAxCDAToOCC4QsQMQgwEQxwEQ0QM6CwguEIAEEMcBEK8BOg4ILhCxAxCDARDHARCvAToLCC4QsQMQxwEQ0QNQyCFY5yZg8zRoAnAAeACAAaYBiAHSBpIBAzAuN5gBAKABAbABALgBAw&sclient=gws-wiz')
+WebUI.switchToWindowTitle('AWS Marketplace: The Katalon Platform')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_AWS Marketplace The Katalon Platform/h1_The Katalon Platform'), 
+    'The Katalon Platform')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_AWS Marketplace The Katalon Platform/h1_The Katalon Platform'), 
+    0)
 
 WebUI.closeBrowser()
-

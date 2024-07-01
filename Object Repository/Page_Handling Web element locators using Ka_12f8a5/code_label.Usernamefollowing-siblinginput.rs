@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>code_label.Usernamefollowing-siblinginput</name>
+   <tag></tag>
+   <elementGuidId>62891432-5579-45bd-af4b-f83d98028693</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__docusaurus_skipToContent_fallback']/div/main/div/div/div/div/article/div[2]/ul[3]/li[2]/code</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Locate the //label[.='Username']/following-sibling::input&quot;i >> internal:role=code</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>code</value>
+      <webElementGuid>359e5118-a37e-4a5f-8937-539176028775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ph codeph</value>
+      <webElementGuid>ab42384d-cdef-48a4-8f62-e1b764dba71e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>//label[.='Username']/following-sibling::input</value>
+      <webElementGuid>901a786b-6113-40b8-aa95-2b646158b37d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__docusaurus_skipToContent_fallback&quot;)/div[@class=&quot;docPage__5DB&quot;]/main[@class=&quot;docMainContainer_gTbr&quot;]/div[@class=&quot;container padding-top--md padding-bottom--lg&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col docItemCol_z5aJ&quot;]/div[@class=&quot;docItemContainer_c0TR&quot;]/article[1]/div[@class=&quot;theme-doc-markdown markdown&quot;]/ul[@class=&quot;ul&quot;]/li[@class=&quot;li&quot;]/code[@class=&quot;ph codeph&quot;]</value>
+      <webElementGuid>62e898bb-0c2a-449a-a4c7-ae3f4c8c71ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus_skipToContent_fallback']/div/main/div/div/div/div/article/div[2]/ul[3]/li[2]/code</value>
+      <webElementGuid>f9068eb1-e6e0-4462-8023-44e96e8af32d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/preceding::code[1]</value>
+      <webElementGuid>5d76e65d-05e1-465c-a0ab-86e422698755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/code</value>
+      <webElementGuid>f079b7cb-5e93-407c-bd94-7ce19ad4dd0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//code[(text() = concat(&quot;//label[.=&quot; , &quot;'&quot; , &quot;Username&quot; , &quot;'&quot; , &quot;]/following-sibling::input&quot;) or . = concat(&quot;//label[.=&quot; , &quot;'&quot; , &quot;Username&quot; , &quot;'&quot; , &quot;]/following-sibling::input&quot;))]</value>
+      <webElementGuid>9b8ef124-95ac-47f1-999c-084e14356498</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

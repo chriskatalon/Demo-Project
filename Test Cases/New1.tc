@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>188b99c6-cf70-49c4-8cfa-28f4508f4788</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3c94819e-8142-4027-8668-8d41030471cd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3c2a0ee8-6466-4b3d-bf0c-27845ba909b5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2e22285-aabd-4241-ad42-5026a17bded3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>3c94819e-8142-4027-8668-8d41030471cd</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3c2a0ee8-6466-4b3d-bf0c-27845ba909b5</id>
+      <masked>false</masked>
+      <name>variable_3</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2e22285-aabd-4241-ad42-5026a17bded3</id>
+      <masked>false</masked>
+      <name>variable_2</name>
+   </variable>
+</TestCaseEntity>

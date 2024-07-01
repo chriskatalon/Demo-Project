@@ -50,12 +50,13 @@ WebUI.delay(10)
 //WebUI.sendKeys(findTestObject('Page_Resumable File Upload Demo  tus/input_Select a file you want to upload_js-file-input'), Keys.ALT, Keys.F4.toString())
 //WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ALT, Keys.F4))
 //WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ALT, Keys.F4))
+file = System.getProperty('user.dir') + '/screenshot.png'
+println(file)
 WebUI.sendKeys(null, Keys.chord(Keys.ALT, Keys.F4))
 WebUI.sendKeys(null, Keys.chord(Keys.ALT, Keys.F4))
 WebUI.delay(10)
 WebUI.sendKeys(null, Keys.chord(Keys.ALT, Keys.F4))
-WebUI.uploadFile(findTestObject('Page_Resumable File Upload Demo  tus/input_Select a file you want to upload_js-file-input'), 
-    'C:\\Users\\quan.trinh\\Desktop\\cancel button.png')
+WebUI.uploadFile(findTestObject('Page_Resumable File Upload Demo  tus/input_Select a file you want to upload_js-file-input'), file)
 
 WebUI.delay(10)
 
