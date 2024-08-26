@@ -220,7 +220,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TS11</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TS11 - special characters</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -230,7 +230,7 @@
             <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TS12</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TS12 - user agent</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>

@@ -17,13 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+def report ="""
 
-WebUI.navigateToUrl('https://www.google.com/')
+Test &é"'(-è_çà)=@
 
-WebUI.click(findTestObject(null))
+@
 
-WebUI.delay(1)
+⚠️
 
-WebUI.closeBrowser()
+✅
 
+"""
+
+WebUI.comment(report)
