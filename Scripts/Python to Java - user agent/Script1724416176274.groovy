@@ -44,7 +44,9 @@ chromeOptions.addArguments('--incognito')
 // chromeOptions.setExperimentalOption("detach", true);
 chromeOptions.addArguments('--user-agent=' + new Gson().toJson(customHeader))
 
-System.setProperty('webdriver.chrome.driver', DriverFactory.getChromeDriverPath())
+//System.setProperty('webdriver.chrome.driver', DriverFactory.getChromeDriverPath())
+
+System.setProperty('webdriver.chrome.driver', 'Include/drivers/chromedriver_linux64/chromedriver')
 
 WebDriver driver = new ChromeDriver(chromeOptions)
 

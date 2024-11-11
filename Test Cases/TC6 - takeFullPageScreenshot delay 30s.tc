@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6 - takeFullPageScreenshot delay 30s</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>099e0653-c285-40ed-8fad-1b8ccbd4f223</testCaseGuid>
+</TestCaseEntity>

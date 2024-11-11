@@ -12,28 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>f9918d2d-e86b-4647-8fe3-2e8b328dcc4c</testSuiteGuid>
    <testCaseLink>
-      <guid>777fe800-6ae8-4b49-9905-9a48c1449520</guid>
+      <guid>656cfe83-8009-4654-9b11-9ab61ebec409</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/New1</testCaseId>
+      <testCaseId>Test Cases/TC3 - takeFullPageScreenshot</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>3c94819e-8142-4027-8668-8d41030471cd</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>3c2a0ee8-6466-4b3d-bf0c-27845ba909b5</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>c2e22285-aabd-4241-ad42-5026a17bded3</variableId>
-      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

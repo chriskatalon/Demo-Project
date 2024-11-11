@@ -9,4 +9,9 @@
       <initValue>'&quot;Chris&quot;\r\n'</initValue>
       <name>Name</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'google.com\n'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

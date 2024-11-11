@@ -15,7 +15,7 @@
       <guid>ef6146dd-23ec-423a-bbaf-a701ad512ad9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC2 - Go to google 1</testCaseId>
+      <testCaseId>Test Cases/TC2 - Print out JRE</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

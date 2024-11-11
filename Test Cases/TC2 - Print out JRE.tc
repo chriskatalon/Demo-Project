@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2 - Print out JRE</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>4</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>versionId</key>
+            <value>149200994</value>
+         </entry>
+         <entry>
+            <key>name</key>
+            <value>TC2 - Go to google 1</value>
+         </entry>
+         <entry>
+            <key>pid</key>
+            <value>TC-37</value>
+         </entry>
+         <entry>
+            <key>id</key>
+            <value>116050492</value>
+         </entry>
+         <entry>
+            <key>version</key>
+            <value>0.1</value>
+         </entry>
+         <entry>
+            <key>parentId</key>
+            <value>57087993</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c94d986-893d-41b3-9954-2cfa02e91888</testCaseGuid>
+</TestCaseEntity>

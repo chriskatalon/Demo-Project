@@ -15,7 +15,7 @@
       <guid>dbe7c134-5af8-4480-b0a2-f226b8ce25ac</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Focus keyword</testCaseId>
+      <testCaseId>Test Cases/TC 7 _ Google demo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

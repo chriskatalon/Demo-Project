@@ -4,5 +4,6 @@
    <name>Display env information</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>01761ad1-6d81-4c3d-bd17-c6d872a64719</testCaseGuid>
 </TestCaseEntity>

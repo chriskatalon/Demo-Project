@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4 - takeFullPageScreenshot with code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb2a0f0f-ddfe-4a42-aaac-d308d78cc884</testCaseGuid>
+</TestCaseEntity>

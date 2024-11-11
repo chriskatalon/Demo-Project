@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "BA70E75AC83E9490318134561D306FF7",
+  "keywordClasses": [
+    {
+      "name": "custom.MyWeb",
+      "keywordMethods": [
+        {
+          "name": "closeBrowser",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "closeBrowser1",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

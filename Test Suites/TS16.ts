@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>227c02db-fc2c-45b7-8812-05d1332d9e28</testSuiteGuid>
    <testCaseLink>
-      <guid>936609c9-8cd7-40a3-9d3f-dae1560f3a4f</guid>
+      <guid>1f2d3771-ff8d-4da5-a9af-da10d11be1e4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC2 - Go to google 1</testCaseId>
+      <testCaseId>Test Cases/TC4 - takeFullPageScreenshot with code</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

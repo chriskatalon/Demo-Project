@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>4152bcb1-818c-44fb-9c6c-a77e0e20c60b</testSuiteGuid>
    <testCaseLink>
-      <guid>2fa9386f-3c6b-4168-85f0-3ea711cfe624</guid>
+      <guid>4931b549-f045-456d-b932-ef23594b7c5c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Focus keyword</testCaseId>
+      <testCaseId>Test Cases/TC6 - takeFullPageScreenshot delay 30s</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
