@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC1 - Browse to katalon.com</name>
+   <name>TC1 - nhua quan kiet</name>
    <tag></tag>
    <integratedEntity>
       <productName>Azure</productName>
@@ -44,5 +44,6 @@
       <type>TESTCASE</type>
    </integratedEntity>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>60ecf663-9861-425f-a52e-aa8c577809f7</testCaseGuid>
 </TestCaseEntity>

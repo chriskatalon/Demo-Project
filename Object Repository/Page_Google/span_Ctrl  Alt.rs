@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ctrl  Alt</name>
+   <tag></tag>
+   <elementGuidId>34f8fac9-7cc7-4cd7-8999-ce2956f9a318</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.vk-sf-h.vk-cap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vk-sf-h ') and contains(concat(' ', normalize-space(@class), ' '), ' vk-cap ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4014fc2-ea96-42e8-ac32-c237f8d8c619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vk-cap vk-sf-h</value>
+      <webElementGuid>7859308b-3b68-4a42-bc92-cb2d39794d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ctrl + Alt</value>
+      <webElementGuid>00a8be19-65a3-475c-ad74-c877e07ca795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>e</value>
+      <webElementGuid>0a4373e5-0481-4ee9-b3a2-cfeb515f15de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b0f95bee325b5d3ee581ade27e220ade</value>
+      <webElementGuid>a8399c2a-ed2c-43ec-a580-4401d6f0e4f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vk-sf-h ') and contains(concat(' ', normalize-space(@class), ' '), ' vk-cap ')]</value>
+      <webElementGuid>1b5f954c-6d99-4c34-909d-e8d36640ec62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vk-sf-h ') and contains(concat(' ', normalize-space(@class), ' '), ' vk-cap ')]</value>
+      <webElementGuid>8aedfd03-75d9-4ed7-bf17-eb17f181c0ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ctrl + Alt' or . = 'Ctrl + Alt')]</value>
+      <webElementGuid>522001e5-97b7-483b-9a2a-2cf821c10267</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,17 @@
+{
+  "cloudURL": "https://trial.perfectomobile.com/nexperience/perfectomobile/wd/hub",
+  "remoteWebDriverType": "Appium",
+  "report.tags": "test,katalon,native,android",
+  "useAppiumForHybrid": true,
+  "securityToken": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI2ZDM2NmJiNS01NDAyLTQ4MmMtYTVhOC1kODZhODk4MDYyZjIifQ.eyJpYXQiOjE3MzM3MzgxMDgsImp0aSI6IjhmYjc4OGZjLTU4NWQtNGQ3Zi05NDBkLWRkNmRmYjFhOWM4YyIsImlzcyI6Imh0dHBzOi8vYXV0aDMucGVyZmVjdG9tb2JpbGUuY29tL2F1dGgvcmVhbG1zL3RyaWFsLXBlcmZlY3RvbW9iaWxlLWNvbSIsImF1ZCI6Imh0dHBzOi8vYXV0aDMucGVyZmVjdG9tb2JpbGUuY29tL2F1dGgvcmVhbG1zL3RyaWFsLXBlcmZlY3RvbW9iaWxlLWNvbSIsInN1YiI6ImRiMGZlOGRmLWE3N2QtNDEyMy1hY2Y1LTFkZWE3ODgzYmRlZiIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJvZmZsaW5lLXRva2VuLWdlbmVyYXRvciIsIm5vbmNlIjoiMGFhNTI3MzItM2EyNi00MzRlLWE3NzAtMjllYzViNDVhNWM2Iiwic2Vzc2lvbl9zdGF0ZSI6IjEzYWMxZTE3LTc0MTctNDE4MS04MzUxLTg4OWM3ZjIzZTM0ZiIsInNjb3BlIjoib3BlbmlkIG9mZmxpbmVfYWNjZXNzIHByb2ZpbGUgZW1haWwiLCJzaWQiOiIxM2FjMWUxNy03NDE3LTQxODEtODM1MS04ODljN2YyM2UzNGYifQ.bs29mOQdw0-9Euxb5kLQQI1LVkp0JbrVZMt70htVVJI",
+  "cloud": "trial.perfectomobile.com",
+  "newCommandTimeout": "60",
+  "browserVersion": "latest",
+  "remoteMobileDriver": "IOS_DRIVER",
+  "automationName": "Appium",
+  "model": "",
+  "remoteWebDriverUrl": "https://trial.perfectomobile.com/nexperience/perfectomobile/wd/hub",
+  "iOSResign": true,
+  "platformName": "iOS",
+  "Browser": "SafariiOS"
+}

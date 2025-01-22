@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SN PHM</name>
+   <tag></tag>
+   <elementGuidId>a83a4d7f-2c6c-4446-9894-7703f3852d43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.nav-top-link[href=&quot;https\:\/\/nhuaquankiet\.com\/danh-muc-san-pham\/san-pham\/&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-top-link ') and (@href = 'https://nhuaquankiet.com/danh-muc-san-pham/san-pham/')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5d378257-de03-4832-bc10-733e60d6d255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nhuaquankiet.com/danh-muc-san-pham/san-pham/</value>
+      <webElementGuid>3ac1ec88-a555-4125-83fa-905315aff91b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-top-link</value>
+      <webElementGuid>4ecb47cf-4428-4e01-a15c-70376df3e3a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SẢN PHẨM</value>
+      <webElementGuid>160fd9b3-b32c-4177-ad1a-34ee9d4f5b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>SẢN PHẨM</value>
+      <webElementGuid>26d72197-4a72-4f71-a486-eb3011ecb247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-869c0aa555bb9d8498e4eabc7ca695af</value>
+      <webElementGuid>ad051467-0255-403f-9dd1-a272906384e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-top-link ') and (@href = 'https://nhuaquankiet.com/danh-muc-san-pham/san-pham/')]</value>
+      <webElementGuid>25415a34-ea12-4872-8881-ace1476f94fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-top-link ') and (@href = 'https://nhuaquankiet.com/danh-muc-san-pham/san-pham/')]</value>
+      <webElementGuid>cf91bca7-adf0-41b0-80dc-4996a497e709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nhuaquankiet.com/danh-muc-san-pham/san-pham/' and (text() = 'SẢN PHẨM' or . = 'SẢN PHẨM')]</value>
+      <webElementGuid>5c956a34-4535-48dc-bc12-12715461841c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

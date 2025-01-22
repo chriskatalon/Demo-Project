@@ -15,7 +15,7 @@
       <guid>1bdd316c-ac4b-4ada-a35d-ee3ceef388f5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC1 - Browse to katalon.com</testCaseId>
+      <testCaseId>Test Cases/TC1 - nhua quan kiet</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

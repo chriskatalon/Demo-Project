@@ -17,9 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('google.com')
+//WebUI.openBrowser('google.com')
 
-WebUI.delay(2)
+WebUI.verifyLinksAccessible(['https://support.saksoff5th.com/s/helpcenter', 'https://stage.saksoff5th.com/content/shipping-policy?sre=footer-shipping'])
+//WebUI.verifyLinksAccessible(['http://katalon.com'])
 
-WebUI.closeBrowser()
+//WebUI.delay(2)
+
+//WebUI.closeBrowser()
 

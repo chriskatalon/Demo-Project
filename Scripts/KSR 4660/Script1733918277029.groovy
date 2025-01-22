@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://katalon.com/')
+WebUI.navigateToUrl('https://ideas.salesforce.com/s/search#t=All&sort=relevancy')
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Ideas  IdeaExchange/div_Category facet'))
 
 WebUI.closeBrowser()
-
-WebUI.callTestCase(findTestCase('JS Execute Javascript w Forum'), [:], FailureHandling.STOP_ON_FAILURE)
 

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_menu-item-687</name>
+   <tag></tag>
+   <elementGuidId>ac751913-4be8-453e-aca6-0d0cd936a123</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.menu-item-has-children.menu-item-object-product_cat.has-dropdown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menu-item-has-children ') and contains(concat(' ', normalize-space(@class), ' '), ' menu-item-object-product_cat ') and contains(concat(' ', normalize-space(@class), ' '), ' has-dropdown ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9d75e7f9-84a0-45c4-a7bd-53826b9d667d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu-item-687</value>
+      <webElementGuid>ecedf600-255d-420e-bf50-76d3f9e75f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-687 has-dropdown current-dropdown</value>
+      <webElementGuid>38767fdf-37a2-457c-8994-a7679e4dc7f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>menu-item-687</value>
+      <webElementGuid>28406b40-0a17-4f50-b67b-e396087431c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>SẢN PHẨM
+Chậu nhựa trồng cây
+Sản phẩm nhựa công nghiệp</value>
+      <webElementGuid>94c30a71-4ba2-4009-b2dc-72b2d5147867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-fbfe2a57aa38e0d08047a700fe5d919c</value>
+      <webElementGuid>0d48966e-4067-4188-b67b-8c44d40159e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menu-item-has-children ') and contains(concat(' ', normalize-space(@class), ' '), ' menu-item-object-product_cat ') and contains(concat(' ', normalize-space(@class), ' '), ' has-dropdown ')]</value>
+      <webElementGuid>8ab339aa-b6ad-42bc-b94a-08890d9f9f20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menu-item-has-children ') and contains(concat(' ', normalize-space(@class), ' '), ' menu-item-object-product_cat ') and contains(concat(' ', normalize-space(@class), ' '), ' has-dropdown ')]</value>
+      <webElementGuid>cf0a476d-41f1-4543-b691-c65ebdd7146f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'menu-item-687' and (text() = 'menu-item-687' or . = 'menu-item-687')]</value>
+      <webElementGuid>246c81c1-52cc-4f42-806f-cbfab0c79c59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_w</name>
+   <tag></tag>
+   <elementGuidId>4a0b3540-9d2a-43ec-9211-8f32c416ec78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.vk-sf-h.vk-cap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vk-sf-h ') and contains(concat(' ', normalize-space(@class), ' '), ' vk-cap ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f5e37811-f392-41b1-b8ad-99b5197bda10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vk-cap vk-sf-h</value>
+      <webElementGuid>b250d052-a2eb-4611-8a6c-c42e20c90b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>w</value>
+      <webElementGuid>10aa56a4-e1aa-4c99-b9aa-94c0a3fd321f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>e</value>
+      <webElementGuid>526dde4f-46bf-44db-be58-ffc65681fbbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b0f95bee325b5d3ee581ade27e220ade</value>
+      <webElementGuid>51acbfc9-744e-496d-9669-6b8972061cf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vk-sf-h ') and contains(concat(' ', normalize-space(@class), ' '), ' vk-cap ')]</value>
+      <webElementGuid>26bebaa1-6140-4eef-a5f8-f77da2d7eb66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vk-sf-h ') and contains(concat(' ', normalize-space(@class), ' '), ' vk-cap ')]</value>
+      <webElementGuid>dafb642c-ae09-43d5-b73e-2f963829a8b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'w' or . = 'w')]</value>
+      <webElementGuid>6e68c1ab-3c7a-40ff-ae9c-e4a0348202de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

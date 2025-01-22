@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OPEN</name>
+   <tag></tag>
+   <elementGuidId>8d8c476a-629f-4e17-a5e8-f0f228b3f3d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.CoveoResult:nth-child(2) .primary-status</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' CoveoResult ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' primary-status ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2cec057a-042b-4f6a-bd93-a5c8fff6b21c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>primary-status</value>
+      <webElementGuid>ca784ced-2b94-412a-9325-0cca2587a048</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OPEN</value>
+      <webElementGuid>eaefccc4-4d17-4305-a3a9-d72745ebbe2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>OPEN</value>
+      <webElementGuid>705e3d87-1a88-4249-a318-2896cd4f7865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6ef0ebdc569f7b8fd0eea123ebccd81f</value>
+      <webElementGuid>aba1ef41-139b-4346-b92c-41c6af5d235f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' CoveoResult ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' primary-status ')]</value>
+      <webElementGuid>f55a23cd-539b-40b8-9e8d-a4e80413ccf7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' CoveoResult ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' primary-status ')]</value>
+      <webElementGuid>3680b97d-b577-4b6a-8977-89d1e2918602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OPEN' or . = 'OPEN')]</value>
+      <webElementGuid>192474ee-2ac6-4fb3-b71e-9dfea845ccb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

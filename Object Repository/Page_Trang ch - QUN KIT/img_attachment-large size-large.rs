@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_attachment-large size-large</name>
+   <tag></tag>
+   <elementGuidId>433e2973-8375-4223-8b2a-0acf1f1bfd7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.is-selected.img .attachment-large</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' is-selected ') and contains(concat(' ', normalize-space(@class), ' '), ' img ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' attachment-large ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fde7d36a-448f-4390-a06f-aa2e6452cf3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>c78355f1-f209-4129-988f-dd96e2b0a235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1020</value>
+      <webElementGuid>f64c0b8a-4caf-4cd6-b5bb-57f0e9629f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>510</value>
+      <webElementGuid>938d26e4-0659-479c-94a8-b610c8d9ac66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://nhuaquankiet.com/wp-content/uploads/2022/05/cong-ty-nhua-quan-kiet-home-page-ke-goc-nhua-gach-men--1400x700.png</value>
+      <webElementGuid>c4a3bc2a-6851-4b5c-8609-07383875e1c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-large size-large</value>
+      <webElementGuid>e810565c-8509-4df8-876f-0bc1b1e0aa51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://nhuaquankiet.com/wp-content/uploads/2022/05/cong-ty-nhua-quan-kiet-home-page-ke-goc-nhua-gach-men--1400x700.png 1400w, https://nhuaquankiet.com/wp-content/uploads/2022/05/cong-ty-nhua-quan-kiet-home-page-ke-goc-nhua-gach-men--800x400.png 800w, https://nhuaquankiet.com/wp-content/uploads/2022/05/cong-ty-nhua-quan-kiet-home-page-ke-goc-nhua-gach-men--768x384.png 768w, https://nhuaquankiet.com/wp-content/uploads/2022/05/cong-ty-nhua-quan-kiet-home-page-ke-goc-nhua-gach-men--1536x768.png 1536w, https://nhuaquankiet.com/wp-content/uploads/2022/05/cong-ty-nhua-quan-kiet-home-page-ke-goc-nhua-gach-men--1320x660.png 1320w, https://nhuaquankiet.com/wp-content/uploads/2022/05/cong-ty-nhua-quan-kiet-home-page-ke-goc-nhua-gach-men-.png 2000w</value>
+      <webElementGuid>98e74c03-d8b6-410d-9b8b-06f6343ae032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 1020px) 100vw, 1020px</value>
+      <webElementGuid>b5151657-8885-44f6-b30d-e469bc451125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>attachment-large size-large</value>
+      <webElementGuid>3dc5beb0-ca50-4a47-a45e-617d98cfb007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d17ccd84eb5282978e8b828159dee576</value>
+      <webElementGuid>598581f2-0ebc-444e-aa2a-82208bed1470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' is-selected ') and contains(concat(' ', normalize-space(@class), ' '), ' img ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' attachment-large ')]</value>
+      <webElementGuid>a80ff28e-a132-4f1f-b18f-40fc20609ffb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' is-selected ') and contains(concat(' ', normalize-space(@class), ' '), ' img ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' attachment-large ')]</value>
+      <webElementGuid>9b1f11eb-28b8-4cfc-87d7-de0b6e5b66af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://nhuaquankiet.com/wp-content/uploads/2022/05/cong-ty-nhua-quan-kiet-home-page-ke-goc-nhua-gach-men--1400x700.png' and (text() = 'attachment-large size-large' or . = 'attachment-large size-large')]</value>
+      <webElementGuid>9f508bd8-73da-4eba-b261-0fc80d49cf75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

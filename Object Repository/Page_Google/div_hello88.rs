@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_hello88</name>
+   <tag></tag>
+   <elementGuidId>58edd428-1eb9-4797-b2a6-d522a11dc11f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[role=&quot;search&quot;] > div:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@role = 'search']/*[(name() = 'div') and (position() = 1)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f1c02077-7fe8-4329-be2a-b5e3a3e6d80e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsmodel</name>
+      <type>Main</type>
+      <value>b5W85 vNzKHd</value>
+      <webElementGuid>c697847b-2418-47a5-a4a8-6eecf1ca05b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsdata</name>
+      <type>Main</type>
+      <value>MuIEvd;_;Ak9yWk</value>
+      <webElementGuid>07da6964-f34a-4a11-b650-d815f9494f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>hello88</value>
+      <webElementGuid>f9ddf091-e8e9-4861-9af8-002c19a5bb54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b79f72fa8a2db3dc3d30349a87bad194</value>
+      <webElementGuid>030f5336-05e5-434a-ae7c-476e0fdc6b2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@role = 'search']/*[(name() = 'div') and (position() = 1)]</value>
+      <webElementGuid>7c54e315-990c-4d84-aae3-584992b70055</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@role = 'search']/*[(name() = 'div') and (position() = 1)]</value>
+      <webElementGuid>8bd308d7-10e7-40a3-81ac-11d26229358d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'hello88' or . = 'hello88')]</value>
+      <webElementGuid>9bd8efc8-8e51-4b17-ae07-dea8c389e27d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
