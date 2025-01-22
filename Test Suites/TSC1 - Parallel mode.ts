@@ -3,7 +3,7 @@
    <description></description>
    <name>TSC1 - Parallel mode</name>
    <tag></tag>
-   <delayBetweenInstances>20</delayBetweenInstances>
+   <delayBetweenInstances>0</delayBetweenInstances>
    <executionMode>PARALLEL</executionMode>
    <maxConcurrentInstances>3</maxConcurrentInstances>
    <testSuiteRunConfigurations>
